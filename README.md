@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-liamlizard
 
 Running at: <https://jpa03-liamlizard.dokku-13.cs.ucsb.edu/>
 
